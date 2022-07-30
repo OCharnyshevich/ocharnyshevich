@@ -24,4 +24,4 @@
 ![](https://count.getloli.com/get/@OCharnyshevich.github.readme)
 </br>
 
-<a href="https://love4dev.com"><img src="https://raw.githubusercontent.com/OCharnyshevich/ocharnyshevich/main/.gif" width="100%" height="100%"></a>
+<a href="https://love4dev.com"><img src="https://raw.githubusercontent.com/OCharnyshevich/ocharnyshevich/main/gif" width="100%" height="100%"></a>
