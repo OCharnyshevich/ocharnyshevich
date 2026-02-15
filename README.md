@@ -5,9 +5,9 @@
 <h1 align="center">Oleg Charnyshevich</h1>
 
 <p align="center">
-  <a href="https://love4dev.com">love4dev.com</a> &middot;
-  <a href="https://www.linkedin.com/in/OCharnyshevich">LinkedIn</a> &middot;
-  <a href="https://github.com/OCharnyshevich">GitHub</a>
+  <a href="https://love4dev.com"><img src="https://img.shields.io/badge/love4dev.com-FF5722?logoColor=white" alt="love4dev.com"/></a>
+  <a href="https://www.linkedin.com/in/OCharnyshevich"><img src="https://img.shields.io/badge/LinkedIn-15k+-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn 15k+"/></a>
+  <a href="https://github.com/OCharnyshevich"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <br/>
