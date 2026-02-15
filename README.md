@@ -1,25 +1,41 @@
-# HEY, I'M OLEG
+<h1 align="center">Oleg Charnyshevich</h1>
 
 <p align="center">
-	<a href="https://github.com/OCharnyshevich"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/OCharnyshevich/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/OCharnyshevich/"><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/OCharnyshevich"><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
+  <a href="https://love4dev.com">love4dev.com</a> &middot;
+  <a href="https://www.linkedin.com/in/OCharnyshevich">LinkedIn</a> &middot;
+  <a href="https://github.com/OCharnyshevich">GitHub</a>
 </p>
 
-<div>
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=OCharnyshevich&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=OCharnyshevich&theme=shades-of-purple&hide_border=true"/>
-    </a>
-  </div>
-  </br>  
-  
-<a href="https://love4dev.com"><img src="https://raw.githubusercontent.com/OCharnyshevich/ocharnyshevich/main/gif" width="30%" height="30%"></a>
+<br/>
 
-### Profile Views
-
-![](https://count.getloli.com/get/@OCharnyshevich.github.readme)
-</br>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Repos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/go-theft-auto"><b>go-theft-auto</b></a></td>
+      <td>GTA tooling in Go</td>
+      <td>
+        <a href="https://github.com/go-theft-auto/renderware">renderware</a> &middot;
+        <a href="https://github.com/go-theft-auto/gui">gui</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/go-theft-craft"><b>go-theft-craft</b></a></td>
+      <td>Minecraft tooling in Go</td>
+      <td>
+        <a href="https://github.com/go-theft-craft/server">server</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/love4dev"><b>love4dev</b></a></td>
+      <td><a href="https://love4dev.com">love4dev.com</a></td>
+      <td>&mdash;</td>
+    </tr>
+  </tbody>
+</table>
