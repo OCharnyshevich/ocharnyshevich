@@ -37,5 +37,20 @@
       <td><a href="https://love4dev.com">love4dev.com</a></td>
       <td>&mdash;</td>
     </tr>
+    <tr>
+      <td><b>srb.guide</b></td>
+      <td>Serbian guide &middot; <a href="https://srb.guide">srb.guide</a></td>
+      <td>&mdash;</td>
+    </tr>
+    <tr>
+      <td><b>stats.srb.guide</b></td>
+      <td>Statistics for srb.guide &middot; <a href="https://stats.srb.guide">stats.srb.guide</a></td>
+      <td>&mdash;</td>
+    </tr>
+    <tr>
+      <td><b>izjava.rs</b></td>
+      <td>Business info website &middot; <a href="https://izjava.rs">izjava.rs</a></td>
+      <td>&mdash;</td>
+    </tr>
   </tbody>
 </table>
