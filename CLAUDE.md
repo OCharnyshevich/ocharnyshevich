@@ -8,8 +8,7 @@ This is a **GitHub profile README repository** (`OCharnyshevich/ocharnyshevich`)
 
 ## Repository Contents
 
-- `README.md` — the profile README (HTML + Markdown), includes social links, GitHub stats widgets, a love4dev GIF, and a profile view counter
-- `gif` — animated GIF asset used in the README (links to love4dev.com)
+- `README.md` — profile README (HTML + Markdown) with social links, project table, and GitHub stats widgets
 - `devbox.json` — Devbox shell with `gh`, `go-task`, `bat`, `file`
 
 ## Development Environment
@@ -38,6 +37,6 @@ This updates `devbox.json` and makes the tool available for future `devbox run` 
 
 ## Editing Guidelines
 
-- The README uses raw HTML for layout (centered links, side-by-side stat cards). Preserve the HTML structure when editing.
+- The README uses raw HTML for layout (centered heading, text links, table, side-by-side stat cards). Preserve the HTML structure when editing.
+- The project table should only list **public** repositories.
 - External widget URLs use the GitHub username `OCharnyshevich` as a parameter — keep this consistent.
-- The `gif` file is referenced via a raw GitHub URL in the README; if renamed, update the `<img>` src accordingly.

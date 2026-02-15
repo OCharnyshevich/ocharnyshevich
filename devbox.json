@@ -1,36 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.6/.schema/devbox.schema.json",
   "packages": {
-    "go": "1.25.5",
-    "git": "latest",
-    "act": "latest", // for testing gitub action localy
-    "gh": "latest", // github cli
-    "gcc": "latest",
-    "libcap": "latest",
+    "gh": "latest",
     "go-task": "latest",
-    "gci": "latest",
-    "gofumpt": "latest",
-    "golangci-lint": "latest",
-    "gopls": "latest",
-    "delve": "latest", // debug package for vscode,
-    "ginkgo": "latest",
     "bat": "latest",
-    "file": "latest",
-    "glibcLocales": {
-      "version": "latest",
-      "platforms": [
-        "x86_64-linux",
-        "aarch64-linux"
-      ]
-    }
-  },
-  "env": {
-    "LD_LIBRARY_PATH": ""
-  },
-  "shell": {
-    "init_hook": [
-      "export \"GOROOT=$(go env GOROOT)\""
-    ],
-    "scripts": {}
+    "file": "latest"
   }
 }
