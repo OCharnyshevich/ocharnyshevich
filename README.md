@@ -40,6 +40,24 @@
       <td><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/openserbia/watchtower"><b>watchtower</b></a></td>
+      <td>Maintained fork of containrrr/watchtower &middot; auto-updates Docker container base images</td>
+      <td>&mdash;</td>
+      <td><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/openserbia/go-flake"><b>go-flake</b></a></td>
+      <td>Nix flake mirroring upstream Go &amp; tooling &middot; daily refresh for when nixpkgs lags a security patch</td>
+      <td>&mdash;</td>
+      <td><img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=white" alt="Nix"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/openserbia/go-claude-skills"><b>go-claude-skills</b></a></td>
+      <td>AI agent skills for building production-grade Go HTTP services</td>
+      <td>&mdash;</td>
+      <td><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/love4dev"><b>love4dev</b></a></td>
       <td>Personal blog &middot; <a href="https://love4dev.com">love4dev.com</a></td>
       <td>&mdash;</td>
