@@ -58,6 +58,12 @@
       <td><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/openserbia/postgres-wolfi"><b>postgres-wolfi</b></a></td>
+      <td>PostgreSQL 18 on Chainguard Wolfi &middot; perl-free, signed, weekly-rebuilt</td>
+      <td>&mdash;</td>
+      <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Wolfi-7857FF?logo=chainguard&logoColor=white" alt="Wolfi"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/love4dev"><b>love4dev</b></a></td>
       <td>Personal blog &middot; <a href="https://love4dev.com">love4dev.com</a></td>
       <td>&mdash;</td>
