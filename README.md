@@ -58,6 +58,12 @@
       <td><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/openserbia/doclint"><b>doclint</b></a></td>
+      <td>Hugo-aware markdown + data-file linter with custom rules, autofix and a formatter (golangci-lint-shaped)</td>
+      <td>&mdash;</td>
+      <td><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white" alt="Hugo"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/openserbia/postgres-wolfi"><b>postgres-wolfi</b></a></td>
       <td>PostgreSQL 18 on Chainguard Wolfi &middot; perl-free, signed, weekly-rebuilt</td>
       <td>&mdash;</td>
